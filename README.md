@@ -4,7 +4,7 @@
 
 > A fully local AI agent powered by **Ollama + Qwen3:4B + LangChain**, with a React dashboard and FastAPI backend.
 
-![Local Agentic AI](./screenshots/dashboard.png)
+
 <img width="1462" height="836" alt="image" src="https://github.com/user-attachments/assets/a5b3f19d-0f56-48a5-b77f-155f2a92c9f6" />
 
 
